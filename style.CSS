@@ -1,0 +1,43 @@
+body
+{
+background-color: rgb(216, 216, 98);
+font-family: monospace;
+}
+
+.header_div
+{
+background-color: lightcoral;
+color: lightskyblue;
+}
+.header_div p
+{
+  color: blue; 
+  letter-spacing: 2px; 
+  font-size: 15px;
+  font-weight: bolder;
+}
+img
+{
+    width: 250px;
+    height:250px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    font-size: 15px;
+background-color: yellow;
+line-height:1;
+text-align: center;
+}
+
+button
+{
+    margin-top: 30px;
+    width:100px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
